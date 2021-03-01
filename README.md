@@ -4,7 +4,7 @@ Using Github Action to release helm chart via `gh-pages` and [helm releaser](htt
 
 ## Structure
 
-The `charts` folder contains the corresponding helm charts which should be build and released. The `index.yml` file is being pushed to the `gh-pages`.
+The `charts` folder contains the corresponding helm charts which should be build and released. The `index.yaml` file is being pushed to the `gh-pages`.
 
 ```shell
 .
