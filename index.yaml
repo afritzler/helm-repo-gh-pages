@@ -31,4 +31,14 @@ entries:
     urls:
     - https://github.com/afritzler/helm-repo-gh-pages/releases/download/hello-world-0.0.5/hello-world-0.0.5.tgz
     version: 0.0.5
-generated: "2021-03-01T16:29:28.548101636Z"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-01T16:32:05.330323041Z"
+    description: A Helm chart for Kubernetes
+    digest: 946d872796e68d871b5dcc6e84580d4668df2a18588e7390131cf8c0bb6bf852
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/afritzler/helm-repo-gh-pages/releases/download/hello-world-0.0.1/hello-world-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-03-01T16:32:05.33033384Z"
