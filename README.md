@@ -13,3 +13,10 @@ The `charts` folder contains the corresponding helm charts which should be build
     └── hello
 ```
 
+```shell
+helm repo add hello https://afritzler.github.io/helm-repo-gh-pages/
+```
+
+```shell
+helm install hello hello/hello-world
+```
